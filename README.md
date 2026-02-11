@@ -1,4 +1,4 @@
-<meta name="description" content="Incoming call: Scam Likely">
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,16 +118,16 @@
 
     <div id="buttons">
         <button class="yes1" onclick="sayYes()">Yes 💖</button>
-        <button class="yes2" onclick="sayYes()">Yes, of course 💕</button>
+        <button class="yes2" onclick="sayYes()">Yesssss!!!</button>
     </div>
 
     <div id="celebration">
-        You just made me the happiest person alive, Azii! 💘✨
+        U betta 🫵🏽🙂‍↕️🎉
     </div>
 
     <div class="signature">
-        Forever yours,<br>
-        Kev 💞
+        Forever and always🫶🏽,<br>
+        Kev 
     </div>
 </div>
 
